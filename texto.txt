@@ -1,1 +1,2 @@
 Olá meu nome é Amanda e estou aprendendo a usar o git
+Olá agora estou aprendendo a atualizar o código
